@@ -11,3 +11,8 @@ img{
 .szoveg{
     margin-left: 27%;
 }
+header{
+    background-image: url(kepek/hullam1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
